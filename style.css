@@ -15,14 +15,17 @@ body {
   font-family: Roboto, Oxygen, Ubuntu;
   padding: 10px;
   border-radius: 10px;
-  margin: 2%;
+  margin: 1%;
 }
 .secondcard {
-  background-color: burlywood;
+  background-color: rgb(50, 78, 119);
   height: auto;
   width: auto;
   color: aliceblue;
   padding: 10px;
   border-radius: 10px;
-  margin: 2%;
+  margin: 1%;
+}
+.terceirabox {
+  color: aliceblue;
 }
