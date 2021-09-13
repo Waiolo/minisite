@@ -30,3 +30,9 @@ body {
   color: aliceblue;
 }
 
+.vitaepdf {
+  background-color: red;
+  border: 1px solid;
+  color: aqua;
+  padding: 70'px;
+}
