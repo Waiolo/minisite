@@ -4,7 +4,7 @@ body {
   font-size: 15px;
   line-height: 1.8;
   color: #b3b3b3;
-  background: #fff;
+  background: rgb(20, 20, 20);
 }
 
 a {
@@ -23,7 +23,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #000;
+  color: rgb(255, 255, 255);
   font-family: 'Playfair Display', times, serif;
 }
 
@@ -383,7 +383,7 @@ main {
   display: block;
   list-style: none;
   padding: 10px;
-  border: 1px solid #e6e6e6;
+  border: 3px dashed #cdaafc65;
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
   transition: 0.3s all ease;
@@ -406,7 +406,7 @@ main {
   left: 0;
   bottom: 0;
   right: 0;
-  background: #f73859;
+  background: #7b38f7bb;
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
   transition: 0.3s all ease;
@@ -466,12 +466,12 @@ main {
 }
 
 .resume-list li .date {
-  color: #000;
+  color: rgb(171, 155, 182);
   opacity: 0.6;
 }
 
 .resume-list li h3 {
-  color: #000;
+  color: rgb(163, 134, 172);
   font-size: 24px;
 }
 
